@@ -69,6 +69,10 @@ Link archives of learning materials or official documents
 ### Code challenge
 * https://adventofcode.com/
 
+## Interests
+
+### Chromium
+* https://www.chromium.org/developers/learning-your-way-around-the-code/
 
 
 ## General
