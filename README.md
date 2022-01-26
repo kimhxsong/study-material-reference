@@ -81,6 +81,7 @@ Link archives of learning materials or official documents
 * https://blog.naver.com/mindo1103/222415279742
 * https://www.youtube.com/playlist?list=PLaqQvlCBe8vJfW3HqjCGQvj5Rcz_wLivt
 * https://www.youtube.com/playlist?list=PLaqQvlCBe8vKWzEimdTjpg86iBWYNBM6Z
+* https://cs.ioc.ee/~silvio/2020/ITT9132/
 
 ### Physics
 * https://youtube.com/playlist?list=PLx9iooiAr6WFokSJvtHs-wuw_BAtB22c0
