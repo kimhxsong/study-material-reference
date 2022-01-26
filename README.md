@@ -60,6 +60,8 @@ Link archives of learning materials or official documents
 * https://cs61.seas.harvard.edu/site/2021/
 * https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN
 * https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-Mnk1PxjEIG32HAGILkTOF
+* https://wiki.osdev.org/Main_Page
+* https://www.linuxfromscratch.org/
 
 ### Networks
 * https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-4
